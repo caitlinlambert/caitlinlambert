@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caitlinlambert
 - 👀 I’m interested in computer systems and data analysis!
 - 🌱 I’m currently learning R/Python.
-- ✨ On this profile you will find: Work from my first project in web development (2020) with Citi.
+- ✨ On this profile you will find: Work from my first project in web development (2020) with Citi, work from my course in data science, and my neural networks class final project.
 - 📫 How to reach me: clambert23@amherst.edu
 
 <!---
